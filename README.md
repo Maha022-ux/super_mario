@@ -8,3 +8,5 @@ Building An AI Model to Play Super Mario Game
 •	Goal: To complete the game and reach the highest levels while collecting as many points as possible. 
 
 •	Environment: The environment is a Super Mario game world, including obstacles, enemies, and power-ups.
+
+Programming Language used: Python
